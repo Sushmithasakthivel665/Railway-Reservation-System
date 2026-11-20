@@ -1,7 +1,7 @@
 # Railway-Reservation-System
 
 # Reg No:212225100053
-# Name:SUSHMITHA.
+# Name:SUSHMITHA.S
 # Date:20-11-26
 
 
